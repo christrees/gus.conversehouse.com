@@ -5,7 +5,9 @@ gus site
 ![Friday](https://lh3.googleusercontent.com/pw/AM-JKLXKxleScGhTUO7adePP6NuL_h2mqQpeqxilrIJ-cR-0J-8ETszZwrpM_aH4p9-s8xX0Ecvdf6K3ma1Ajc7GD-HJObcJGe0A99jcTk1xOT2baMhPqTyuXLhOUZ61C5Q1rxrTZhSBCKk0SLHfGNvRt__8=w1179-h885-no?authuser=0)
 
 ## [Toilet Talk Project](./project/toilettalk)
-Toilet Talk Weekly meeting Wednesday 12:30 - 1:30pm CST [Click here to join using Google Meet - Toilet Talk](https://meet.google.com/apg-vmih-akq)
+Toilet Talk Weekly meeting Wednesday 12:30 - 1:30pm CST [Click here to join using Google Meet - Toilet Talk](https://meet.google.com/efv-bzzx-pqa)
+
+<!-- [old one](https://meet.google.com/apg-vmih-akq) -->
 
 - [Toilet construction pictures](https://photos.app.goo.gl/R6V62FhKW1S6XRuS8)
 
