@@ -4,6 +4,9 @@ gus site
 ## [Gus and BooBoo 60th Pics](https://photos.app.goo.gl/9Gc4Qnh2VxgPg6Pu8)
 ![Friday](https://lh3.googleusercontent.com/pw/AM-JKLXKxleScGhTUO7adePP6NuL_h2mqQpeqxilrIJ-cR-0J-8ETszZwrpM_aH4p9-s8xX0Ecvdf6K3ma1Ajc7GD-HJObcJGe0A99jcTk1xOT2baMhPqTyuXLhOUZ61C5Q1rxrTZhSBCKk0SLHfGNvRt__8=w1179-h885-no?authuser=0)
 
+## [Gus and BooBoo 60th Pinball](https://photos.app.goo.gl/dQXPzZez8KuMvkm47)
+![Birthday Pinball](https://lh3.googleusercontent.com/pw/AM-JKLWS3fwqiRyJeMkxLkO1K4oWUhUTyhdTU5t7X-MxzzIwl9sSgWiJTmG2vKccW_dzlK1AYYM-kGrjo649iMyIsz7zBAVz2BtdKEPcRDaCWHfv2ASddN5HnYnEQ-ERnoGWl1jcr7p18fy774Bq50tIrsuo=w1239-h929-no?authuser=0)
+
 ## [Toilet Talk Project](./project/toilettalk)
 Toilet Talk Weekly meeting Wednesday 12:30 - 1:30pm CST [Click here to join using Google Meet - Toilet Talk](https://meet.google.com/efv-bzzx-pqa)
 
