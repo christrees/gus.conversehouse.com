@@ -26,7 +26,7 @@ Toilet Talk Weekly meeting Wednesday 12:30 - 1:30pm CST [Click here to join usin
 - youtube [Passive exoskeleton](https://youtu.be/2ADDb2TLdhw?t=332)
 - [Samsung GEM assist]()
     - youtube [Samsung walk-assist exoskeleton](https://youtu.be/QSRpyrfdoQ8)
-    - youtube [](https://youtu.be/QSRpyrfdoQ8)
+    - youtube [Samsung CES 2019](https://youtu.be/jJP0xKgorDY?t=96)
 - [Hilti Exoskeleton](https://www.hilti.com/c/CLS_EXOSKELETON_HUMAN_AUGMENTATION)
     - youtube [Hilti EX0-01](https://youtu.be/SRb9XU9dmiA) 
 - [SuitX Company](https://www.suitx.com/home#)
