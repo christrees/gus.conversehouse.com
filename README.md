@@ -38,3 +38,5 @@ Toilet Talk Weekly meeting Wednesday 12:30 - 1:30pm CST [Click here to join usin
 
 
 ### [Car Problem Photos](https://photos.app.goo.gl/maauPr3ghJFAESkS7)
+
+### [Portal TV $99 till 9/12](https://portal.facebook.com/products/portal-tv/)
