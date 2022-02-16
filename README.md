@@ -1,6 +1,12 @@
 # gus.conversehouse.com
 gus site
 
+[MST3K on TubiTV](https://tubitv.com/search/MST3K)
+
+[Brad Nordyke - https://bradnordyke.com/](https://bradnordyke.com/)
+
+[Brayden Nordyke - https://braydennordyke.com/](https://braydennordyke.com/)
+
 ## [Gus and BooBoo 60th Pics](https://photos.app.goo.gl/9Gc4Qnh2VxgPg6Pu8)
 ![Friday](https://lh3.googleusercontent.com/pw/AM-JKLXKxleScGhTUO7adePP6NuL_h2mqQpeqxilrIJ-cR-0J-8ETszZwrpM_aH4p9-s8xX0Ecvdf6K3ma1Ajc7GD-HJObcJGe0A99jcTk1xOT2baMhPqTyuXLhOUZ61C5Q1rxrTZhSBCKk0SLHfGNvRt__8=w1179-h885-no?authuser=0)
 
