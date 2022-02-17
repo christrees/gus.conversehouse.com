@@ -5,6 +5,8 @@ gus site
 
 [Dead Like Me - TubiTV](https://tubitv.com/movies/302321/dead-like-me-life-after-death)
 
+[FireFly - TubiTV](https://tubitv.com/series/300007905/firefly)
+
 [Brad Nordyke - https://bradnordyke.com/](https://bradnordyke.com/) - [Brayden Nordyke - https://braydennordyke.com/](https://braydennordyke.com/)
 
 ## [Gus and BooBoo 60th Pics](https://photos.app.goo.gl/9Gc4Qnh2VxgPg6Pu8)
