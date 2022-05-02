@@ -1,6 +1,8 @@
 # gus.conversehouse.com
 gus site
 
+More [Robot hand stuff on Linked-in](https://www.linkedin.com/feed/update/urn:li:activity:6924632966576918528/)
+
 Cart pics here -> [Quantum Cart Pictures and video](https://photos.google.com/share/AF1QipOcmSWVo13AN7-6kMiFAKp3aLQ9WzmFhwPkc6LzjQDhEHbnF65kfic6rTgGdnVzOw?key=MUVOMEpjZC1pYlVNUEZSVWFWWmxIelQ1OUhCTmtB)
 
 ![cartid](https://lh3.googleusercontent.com/pw/AM-JKLWYspA9z8prantzjHWwBV5Yuuks2as6twVLfku06-80qOM2Qd2awKgUSdZxssV20-F72SEnOI49sdhuYpgrgT1YZujGgsKZyOqk60dg6uOBzsQSY6sir2WFpfz-iOV1FzhutTjbUkC0p1-SEJDUClFs=w1181-h885-no?authuser=0)
