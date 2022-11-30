@@ -1,6 +1,8 @@
 # gus.conversehouse.com
 gus site
 
+### Chris's blog [http://blog.christrees.com/](http://blog.christrees.com/)
+
 More [Robot hand stuff on Linked-in](https://www.linkedin.com/feed/update/urn:li:activity:6924632966576918528/)
 
 Cart pics here -> [Quantum Cart Pictures and video](https://photos.google.com/share/AF1QipOcmSWVo13AN7-6kMiFAKp3aLQ9WzmFhwPkc6LzjQDhEHbnF65kfic6rTgGdnVzOw?key=MUVOMEpjZC1pYlVNUEZSVWFWWmxIelQ1OUhCTmtB)
