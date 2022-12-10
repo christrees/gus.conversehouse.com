@@ -5,7 +5,7 @@ gus site
 
 ---
 
-[The Great Toilet Battle - Bill Gates mistatkes](https://www.youtube.com/watch?v=QKGDl_suBNI)
+[The Great Toilet Battle - Process not technology a Bill Gates mistakes](https://www.youtube.com/watch?v=QKGDl_suBNI)
 ---
 
 [Steve Gibbson - Sleep site](https://www.grc.com/health/sleep/healthy_sleep_formula.htm)
