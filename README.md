@@ -5,6 +5,9 @@ gus site
 
 ---
 
+[The Great Toilet Battle - Bill Gates mistatkes](https://www.youtube.com/watch?v=QKGDl_suBNI)
+---
+
 [Steve Gibbson - Sleep site](https://www.grc.com/health/sleep/healthy_sleep_formula.htm)
 
 [Steve Gibbson - Vitamin D](https://www.grc.com/health/vitamin-d.htm)
