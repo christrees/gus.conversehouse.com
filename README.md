@@ -4,6 +4,8 @@ gus site
 ### Chris's blog [http://blog.christrees.com/](http://blog.christrees.com/)
 
 ---
+- [https://www.cfu.net/tv-internet/tv-service-info/channel-guide](https://www.cfu.net/tv-internet/tv-service-info/channel-guide)
+- [cattvwin10 channel map](https://docs.google.com/spreadsheets/d/1wjN1_N5Vjji6NQgE3DXi4D-S76sAHppQrdXsqh5qX2E/edit#gid=0) gus@conversehouse.com
 
 [The Great Toilet Battle - Process not technology a Bill Gates mistake](https://www.youtube.com/watch?v=QKGDl_suBNI)
 ---
