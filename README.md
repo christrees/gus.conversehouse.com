@@ -1,5 +1,10 @@
 
 # gus camp 2023 July 27-31
+```
+gus pool
+1605 Summit Estates Drive
+O'Fallon, MO  63366
+```
 
 ## Thur July 27 pablo, bobo, trees, sip, gus
 - Pablo airport 
