@@ -1,5 +1,27 @@
-# gus.conversehouse.com
-gus site
+
+# gus camp 2023 July 27-31
+
+## Thur July 27 pablo, bobo, trees, sip, gus
+- Pablo airport 
+- bobo pablo beer and veg (for grill) run ?
+- panteras pizza at gus's ? 
+
+## Fri July 28 pablo, bobo, trees, sip, gus, scout, acid, rance
+- bfast at tony's dinner ot lunch at corner pub ?
+- sugar fire bbq
+- Grill
+- pool
+
+## Sat July 28 pablo, bobo, trees, sip, gus, scout, acid, rance, hemrich
+- Roids arrives maybe he meets us at two plumbers
+- two plumbers noon - ? hotwings pizza ? lots of food options
+- pool and drinks post
+
+## Sun July 29 pablo, bobo, trees, sip, gus, scout, acid, rance, hemrich
+- a hemrich bfast ?
+- pool 
+
+<!--
 
 ### Chris's blog [http://blog.christrees.com/](http://blog.christrees.com/)
 
@@ -41,7 +63,7 @@ Cart pics here -> [Quantum Cart Pictures and video](https://photos.google.com/sh
 ## [Toilet Talk Project](./project/toilettalk)
 Toilet Talk Weekly meeting Wednesday 12:30 - 1:30pm CST [Click here to join using Google Meet - Toilet Talk](https://meet.google.com/efv-bzzx-pqa)
 
-<!-- [old one](https://meet.google.com/apg-vmih-akq) -->
+ [old one](https://meet.google.com/apg-vmih-akq)
 
 - [Toilet construction pictures](https://photos.app.goo.gl/R6V62FhKW1S6XRuS8)
 
@@ -71,3 +93,4 @@ Toilet Talk Weekly meeting Wednesday 12:30 - 1:30pm CST [Click here to join usin
 ### [Car Problem Photos](https://photos.app.goo.gl/maauPr3ghJFAESkS7)
 
 ### [Portal TV $99 till 9/12](https://portal.facebook.com/products/portal-tv/)
+-->
