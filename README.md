@@ -14,23 +14,23 @@ O'Fallon, MO  63366
 314-853-8397
 ```
 
-## Thur July 27 pablo, bobo, trees, sip, gus
+## Thur July 27 pablo, bobo, trees, gus
 - Pablo airport 
 - bobo pablo beer and veg (for grill) run ?
 - panteras pizza at gus's ? 
 
-## Fri July 28 pablo, bobo, trees, sip, gus, scout, acid, rance
-- bfast at tony's dinner ot lunch at corner pub ?
+## Fri July 28 pablo, bobo, trees, gus, scout, acid, rance
+- bfast at tony's diner or lunch at corner pub ?
 - sugar fire bbq
-- Grill
+- grill
 - pool
 
-## Sat July 28 pablo, bobo, trees, sip, gus, scout, acid, rance, hemrich
-- Roids arrives maybe he meets us at two plumbers
+## Sat July 28 pablo, bobo, trees, sip, gus, scout, acid, rance, himrich
+- himrich arrives maybe he meets us at two plumbers
 - two plumbers noon - ? hotwings pizza ? lots of food options
 - pool and drinks post
 
-## Sun July 29 pablo, bobo, trees, sip, gus, scout, acid, rance, hemrich
+## Sun July 29 pablo, bobo, trees, sip, gus, scout, acid, rance, himrich
 - a hemrich bfast ?
 - pool 
 
