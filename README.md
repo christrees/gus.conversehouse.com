@@ -10,9 +10,11 @@ O'Fallon, MO  63366
 
 [Google Map Link - click here](https://goo.gl/maps/85d9VKYTtEoHTdKJ6)
 
-```phone
-314-853-8397
-```
+---
+
+[314-853-8397 click to call](tel:314-853-8397)
+
+---
 
 ## Thur July 27 pablo, bobo, trees, gus
 - Pablo airport 
