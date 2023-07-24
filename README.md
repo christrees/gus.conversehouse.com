@@ -10,7 +10,7 @@ O'Fallon, MO  63366
 
 [Google Map Link - click here](https://goo.gl/maps/85d9VKYTtEoHTdKJ6)
 
-```
+```phone
 314-853-8397
 ```
 
@@ -31,7 +31,7 @@ O'Fallon, MO  63366
 - pool and drinks post
 
 ## Sun July 29 pablo, bobo, trees, sip, gus, scout, acid, rance, himrich
-- a hemrich bfast ?
+- a himrich bfast ?
 - pool 
 
 <!--
