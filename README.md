@@ -1,14 +1,28 @@
 
+- Two Plumbers
+
+ ![Two Plumbers](./gusCamp2023_TwoPlumbers_PXL_20230729_175618635.jpg)
+
+- Pool Boy Pablo (post storm)
+
+ ![Pool Boy Pablo](./gusCamp2023_PoolBoyPablo_PXL_20230729_234639965.jpg)
+
+- Himbo Still Hollow Corn Whiskey
+
+ ![Himbo Whiskey](./gusCamp2023_Himbo_SillHollow_PXL_20230730_000643879.jpg)
+
+<!--
 # gus camp 2023 July 27-31
 ```
 gus pool
 1605 Summit Estates Drive
 O'Fallon, MO  63366
 ```
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3108.158334101756!2d-90.76213708800421!3d38.82883455062808!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87dec54e26a9cdcf%3A0xb89fda7274344df7!2s1605%20Summit%20Estates%20Dr%2C%20O&#39;Fallon%2C%20MO%2063366!5e0!3m2!1sen!2sus!4v1690142251600!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+-->
+<!-- iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3108.158334101756!2d-90.76213708800421!3d38.82883455062808!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87dec54e26a9cdcf%3A0xb89fda7274344df7!2s1605%20Summit%20Estates%20Dr%2C%20O&#39;Fallon%2C%20MO%2063366!5e0!3m2!1sen!2sus!4v1690142251600!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 [Google Map Link - click here](https://goo.gl/maps/85d9VKYTtEoHTdKJ6)
+-->
 
 ---
 
@@ -16,6 +30,7 @@ O'Fallon, MO  63366
 
 ---
 
+<!--
 ## Thur July 27 pablo, bobo, trees, gus
 - Pablo airport 
 - bobo pablo beer and veg (for grill) run ?
@@ -35,6 +50,7 @@ O'Fallon, MO  63366
 ## Sun July 29 pablo, bobo, trees, sip, gus, scout, acid, rance, himrich
 - a himrich bfast ?
 - pool 
+-->
 
 <!--
 
