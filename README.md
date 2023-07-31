@@ -1,25 +1,35 @@
 - Gus Camp Pool
 
  ![gus pool](gusCamp2023_gusPool_bobo_090abd1d13fb0747615e4b2ce7e8c94ff7ff0266-1.jpeg)
- 
+
+---
 - bo-bu-bly bobo Pinball Palace
 
  ![bobo palace](gusCamp2023_boboPinBallPalace_1fe6aa5017bb5627483611e0d79cefb5cfc76671-1.jpeg)
 
+---
 - Two Plumbers
 
  ![Two Plumbers](./gusCamp2023_TwoPlumbers_PXL_20230729_175618635.jpg)
 
  ![Two Plumbers bobo](./gusCamp2023_TwoPlumbers_bobo_40989aa28a00451483afec41f7ca2952407549c0-1.jpeg)
 
+---
 - Pool Boy Pablo (post storm)
 
  ![Pool Boy Pablo](./gusCamp2023_PoolBoyPablo_PXL_20230729_234639965.jpg)
 
+---
+- photo by Acid (no dick.... jokes) Richard
+
+ ![gusCamp2023_photobyAcidRichard_attachment.jpeg](gusCamp2023_photobyAcidRichard_attachment.jpeg)
+
+---
 - Himbo Still Hollow Corn Whiskey
 
  ![Himbo Whiskey](./gusCamp2023_Himbo_SillHollow_PXL_20230730_000643879.jpg)
 
+---
 - Himbo explains "---------"
 
  ![Himbo Explains](gusCamp2023_HimboExplains_c4e183e86abe9aab22de2e37f6db3d212d6d2c1b-1.jpeg)
