@@ -53,6 +53,11 @@ O'Fallon, MO  63366
 
 ---
 
+- [Barndominimum youtube](https://www.youtube.com/watch?v=JvUOujyy9cA)
+- [https://blog.christrees.com/tax/](https://blog.christrees.com/tax/)
+- [https://blog.christrees.com/farm/llc](https://blog.christrees.com/farm/llc)
+- [https://blog.christrees.com/farm/llc-create](https://blog.christrees.com/farm/llc-create)
+
 <!--
 ## Thur July 27 pablo, bobo, trees, gus
 - Pablo airport 
