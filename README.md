@@ -53,6 +53,7 @@ O'Fallon, MO  63366
 
 ---
 
+- [Iowa Septic Rules](https://www.iowadnr.gov/Environmental-Protection/Water-Quality/Private-Septic-Systems) 4 houses or 15 people
 - [Barndominimum youtube](https://www.youtube.com/watch?v=JvUOujyy9cA)
 - [https://blog.christrees.com/tax/](https://blog.christrees.com/tax/)
 - [https://blog.christrees.com/farm/llc](https://blog.christrees.com/farm/llc)
