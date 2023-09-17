@@ -7,6 +7,7 @@
 - Plex monitor
 - Upgrade local server
 - Review channel mappings
+- some task that I'm putting in via voice
 
 ### Digital Media Archive
 
