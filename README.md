@@ -1,3 +1,5 @@
+- [gus chat](https://meet.google.com/dqx-daam-epj)
+  
 - Gus Camp Pool
 
  ![gus pool](gusCamp2023_gusPool_bobo_090abd1d13fb0747615e4b2ce7e8c94ff7ff0266-1.jpeg)
