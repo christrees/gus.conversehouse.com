@@ -1,4 +1,4 @@
-[edit]()
+[edit](https://github.com/christrees/gus.conversehouse.com/edit/main/wip/README.md)
 
 ## gus wip (Work In Progress) Projects
 
