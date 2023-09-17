@@ -1,6 +1,11 @@
-- [gus chat](https://meet.google.com/dqx-daam-epj)
-  
-- Gus Camp Pool
+## [gus Video Chat Link](https://meet.google.com/zjf-xpvx-cqg)
+
+- Join the video meeting, [click this link](https://meet.google.com/zjf-xpvx-cqg)
+- Join by phone, dial +1 929-324-2085 and enter this PIN: 464 687 723#
+- To view more phone numbers, [click this link](https://tel.meet/zjf-xpvx-cqg?hs=5)
+
+
+## Gus Camp Pool July 2023
 
  ![gus pool](gusCamp2023_gusPool_bobo_090abd1d13fb0747615e4b2ce7e8c94ff7ff0266-1.jpeg)
 
