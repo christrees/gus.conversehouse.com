@@ -5,9 +5,7 @@
 ### Plex Server
 
 - Plex monitor
-- Upgrade local server
 - Review channel mappings
-- some task that I'm putting in via voice
 
 ### Digital Media Archive
 
@@ -18,3 +16,20 @@
 
 - Tivo over zerotier
 - Tivo media to plex backup
+
+### Bring
+- old server and storage
+- bring switch
+- bring router
+  
+### Pick up
+- Dates 6.79
+- Cherry 8.49
+- Plumbs
+- no Apricot 11.99
+- Mango 11.99
+- Oatmeal
+- ks cashews sweet nuts 12.79
+- Apples
+- Bring Garlic ??
+- Butter (in cedar falls)
