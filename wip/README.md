@@ -3,20 +3,24 @@
 ## gus wip (Work In Progress) Projects
 
 ### Plex Server
-
 - Plex monitor
 - Review channel mappings
 
 ### Digital Media Archive
-
 - Converse archive
 - gus media archive
 
 ### Tivo Network
-
 - Tivo over zerotier
 - Tivo media to plex backup
 
+### Smart Home stuff
+- setup Home Assistant Server
+- Doorbell ?
+- More Power switches
+- USB Outlets
+- tbd
+  
 ### Bring
 - old server and storage
 - bring switch
