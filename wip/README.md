@@ -22,9 +22,13 @@
 - tbd
   
 ### Bring
-- old server and storage
+- old 1u server and 3x2TB storage
 - bring switch
 - bring router
+- macmini
+- FireTV cube
+- TV (Winfield)
+- Monitor
   
 ### Pick up
 - Dates 6.79
