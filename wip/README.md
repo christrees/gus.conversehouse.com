@@ -1,43 +1,29 @@
 [edit](https://github.com/christrees/gus.conversehouse.com/edit/main/wip/README.md)
 
 ## gus wip (Work In Progress) Projects
+- [slDVR Plex - sl remote](https://24.216.208.251:32500/) - onlline
 
-### Plex Server
-- Plex monitor
-- Review channel mappings
+### gus links
+- [slDVR Plex - sl remote](https://24.216.208.251:32500/) in sl-network docs [sl.2cld.net/dcos](https://sl.2cld.net/docs/)
 
-### Digital Media Archive
-- Converse archive
-- gus media archive
 
-### Tivo Network
-- Tivo over zerotier
-- Tivo media to plex backup
-
-### Smart Home stuff
-- setup Home Assistant Server
-- Doorbell ?
-- More Power switches
-- USB Outlets
-- tbd
+---
+---
+---
+### wip gus project notes
+- Update [Google Docs - Media Library](https://docs.google.com/spreadsheets/d/1QtCblfwwH6PWYOKnIw2m4DKLni8KrVynXM6Xslb7mGg/edit#gid=0)
+- Blender BIM project for sl and wf bathrooms
   
-### Bring
-- old 1u server and 3x2TB storage
-- bring switch
-- bring router
-- macmini
-- FireTV cube
-- TV (Winfield)
-- Monitor
-  
-### Pick up
-- Dates 6.79
-- Cherry 8.49
-- Plumbs
-- no Apricot 11.99
-- Mango 11.99
-- Oatmeal
-- ks cashews sweet nuts 12.79
-- Apples
-- Bring Garlic ??
-- Butter (in cedar falls)
+## Done
+  - Plex client menu naming
+  - Plex storage and server naming
+  - Clean up Music and other Audio Storage
+  - Plex server storage mappings and media backups
+  - Multiple client dashboard views
+  - tv.2cld.net media mapping and backup sheet
+  - tv.2cld.net personal fav checklist sheet 
+  - Verify storage and server in cf with remote to sl
+  - attempt a new subnet with the tuner in sl and plex in cf
+  - Plex DVR channel mapping
+  - Plex client access control
+  - Plex server restarts / updates
