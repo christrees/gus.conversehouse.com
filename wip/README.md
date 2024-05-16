@@ -2,6 +2,15 @@
 
 ## gus wip (Work In Progress) Projects
 - [slDVR Plex - sl remote](https://24.216.208.251:32500/) - onlline
+- put vhs's online for sale
+- figure out online store for s***
+- grandkid archive
+- online store for tchotchkes
+- archive for Converse pictures
+- set up home assistant
+- voice control of router reset
+- voice control light
+- voice control camera display
 
 ### gus links
 - [slDVR Plex - sl remote](https://24.216.208.251:32500/) in sl-network docs [sl.2cld.net/dcos](https://sl.2cld.net/docs/)
