@@ -1,5 +1,9 @@
 ## [gus Video Chat Link](https://meet.google.com/zjf-xpvx-cqg)
 
+
+[Google Map Link - click here](https://goo.gl/maps/85d9VKYTtEoHTdKJ6)
+
+
 - [Click this link](https://meet.google.com/zjf-xpvx-cqg) to join the Video meeting 
 - or use any phone ------------- [dial +1 929-324-2085](tel:9293242085)
   - Enter below PIN:
@@ -58,9 +62,8 @@ O'Fallon, MO  63366
 ```
 -->
 <!-- iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3108.158334101756!2d-90.76213708800421!3d38.82883455062808!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87dec54e26a9cdcf%3A0xb89fda7274344df7!2s1605%20Summit%20Estates%20Dr%2C%20O&#39;Fallon%2C%20MO%2063366!5e0!3m2!1sen!2sus!4v1690142251600!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-[Google Map Link - click here](https://goo.gl/maps/85d9VKYTtEoHTdKJ6)
 -->
+
 
 ---
 
@@ -68,13 +71,14 @@ O'Fallon, MO  63366
 
 ---
 
+<!--
 - [Iowa Septic Rules](https://www.iowadnr.gov/Environmental-Protection/Water-Quality/Private-Septic-Systems) 4 houses or 15 people
 - [Barndominimum youtube](https://www.youtube.com/watch?v=JvUOujyy9cA)
 - [https://blog.christrees.com/tax/](https://blog.christrees.com/tax/)
 - [https://blog.christrees.com/farm/llc](https://blog.christrees.com/farm/llc)
 - [https://blog.christrees.com/farm/llc-create](https://blog.christrees.com/farm/llc-create)
 
-<!--
+
 ## Thur July 27 pablo, bobo, trees, gus
 - Pablo airport 
 - bobo pablo beer and veg (for grill) run ?
