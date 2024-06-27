@@ -13,7 +13,6 @@
 
 ---
 
-- [gus wip projects](./wip)
 
 ---
 
@@ -70,6 +69,8 @@ O'Fallon, MO  63366
 [314-853-8397 click to call](tel:314-853-8397)
 
 ---
+
+- [gus wip projects](./wip)
 
 <!--
 - [Iowa Septic Rules](https://www.iowadnr.gov/Environmental-Protection/Water-Quality/Private-Septic-Systems) 4 houses or 15 people
