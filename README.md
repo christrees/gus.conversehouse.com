@@ -1,19 +1,36 @@
 ## [gus Video Chat Link](https://meet.google.com/zjf-xpvx-cqg)
 
 
-[Google Map Link - click here](https://goo.gl/maps/85d9VKYTtEoHTdKJ6)
+[Google Map Link Gus House - click here](https://goo.gl/maps/85d9VKYTtEoHTdKJ6)
 
-
+<!--
 - [Click this link](https://meet.google.com/zjf-xpvx-cqg) to join the Video meeting 
 - or use any phone ------------- [dial +1 929-324-2085](tel:9293242085)
   - Enter below PIN:
    ```
    464 687 723
    ```
+-->
 
 ---
 
+## Gus Camp June 28 to July 1
 
+### June 28
+- Good News Brewery at High Noon "Pablo meets Beer... and pizza"
+```
+Good News Brewery
+330 Sonderer St.
+O'Fallon MO
+```
+- Google Link to [Good News Brewery](https://maps.app.goo.gl/tYhJg8uMxeXuacpX9)
+- Bfast bonanza
+  
+### June 27
+- Dinner and a Movie
+- Beerme
+- Pablo's beer and veg run
+- 5pm BooBoo Pablo Airport scene
 ---
 
 ## Gus Camp Pool July 2023
