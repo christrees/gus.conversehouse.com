@@ -24,6 +24,7 @@ Good News Brewery
 O'Fallon MO
 ```
 - Google Link to [Good News Brewery](https://maps.app.goo.gl/tYhJg8uMxeXuacpX9)
+![gusCamp2024_GoodNewsBrewery](./gusCamp2024_GoodNewsBrewery.jpg)
 - Bfast bonanza
   
 ### June 27
