@@ -33,6 +33,10 @@ O'Fallon MO
 - 5pm BooBoo Pablo Airport scene
 ---
 
+### Cicadas 2024 - [Gus Yard photos](https://photos.app.goo.gl/yVqPhNAuAMYbgLX8A)
+
+---
+
 ## Gus Camp Pool July 2023
 
  ![gus pool](gusCamp2023_gusPool_bobo_090abd1d13fb0747615e4b2ce7e8c94ff7ff0266-1.jpeg)
@@ -117,6 +121,7 @@ O'Fallon, MO  63366
 - a himrich bfast ?
 - pool 
 -->
+
 
 <!--
 
