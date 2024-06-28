@@ -27,7 +27,7 @@ O'Fallon MO
 - Bfast bonanza
   
 ### June 27
-- Dinner and a Movie
+- Burgers, Beer and FightClub
 - Beerme
 - Pablo's beer and veg run
 - 5pm BooBoo Pablo Airport scene
