@@ -15,8 +15,18 @@
 ---
 
 ## Gus Camp June 28 to July 1
+- [guscamp2024 - Photo Album](https://photos.app.goo.gl/quMEdVytmvoXmD4v9)
+  
+### June 29
+- Two Plumbers at ?? Noon-ish ??
+- 745 Friedens Rd, St Charles, MO 63303
+- [Google Address Link](https://maps.app.goo.gl/mdFCKvZWToaYAw8s7)
 
 ### June 28
+- Burgers and Himbo-Dave Mixology Method ?? to when-ever we don't see Dave moving.
+![gusCamp2024_HimboMixology](./gusCamp2024_HimboMixology.jpg)
+- Gus Pool Party 2ish to ??
+![gusCamp2024_PoolPartyFri](./gusCamp2024_PoolPartyFri.jpg)
 - Good News Brewery at High Noon "Pablo meets Beer... and pizza"
 ```
 Good News Brewery
