@@ -20,7 +20,9 @@
 ### June 29
 - Two Plumbers at ?? Noon-ish ??
 - 745 Friedens Rd, St Charles, MO 63303
-- [Google Address Link](https://maps.app.goo.gl/mdFCKvZWToaYAw8s7)
+- [Two Plumbers - Google Address Link](https://maps.app.goo.gl/mdFCKvZWToaYAw8s7)
+  - Food Links
+  - [China King - Google Address Link](https://maps.app.goo.gl/LKLCgwQsX72iJxeGA) and the [China King Website - Menu](https://chinaking94.com/)
 
 ### June 28
 - Burgers and Himbo-Dave Mixology Method ?? to when-ever we don't see Dave moving.
