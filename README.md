@@ -18,7 +18,11 @@
 - [guscamp2024 - Photo Album](https://photos.app.goo.gl/quMEdVytmvoXmD4v9)
   
 ### June 29
-- Two Plumbers at ?? Noon-ish ??
+- Sugar Fire Smoke House BBQ
+    - [Google Map Link](https://maps.app.goo.gl/JDEhrZ1SKkLqTyhK6)
+    - [Sugar File Website](https://sugarfiresmokehouse.com/)
+- I AM STEVE... Swim Pary ?? 4pm ish to 7pm ish ??
+- Two Plumbers at ?? Noon-ish ?? to ?? 4pm ish ??
 - 745 Friedens Rd, St Charles, MO 63303
 ![gusgets on leadeer board](https://lh3.googleusercontent.com/pw/AP1GczO6uiFV1xN9LCTSIaJOz6mi22Q7PZ1FjrxQnC7Q8HMKUACnZ_1FlV-4AZ1icj3I8BNGmdY1xgq_ccDK_CYSLTpKdoAWcYnwW-SwvA8JCi_WTXon_lN98nV7vmDZfOc8hrZrb0obBvErG7KVCqhP2j6W=w955-h716-s-no-gm?authuser=0)
 - [Two Plumbers - Google Address Link](https://maps.app.goo.gl/mdFCKvZWToaYAw8s7)
