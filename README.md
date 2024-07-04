@@ -15,11 +15,14 @@
 ## BooBoo Pinball Rampage July 3
 - More [BooBoo Pinball Rampage](./booboo)
 - More [Pinball 2024](https://photos.app.goo.gl/Nep3nuChCkUugCLa8)
-![](./BooBoo-Gardians-20240703GC.jpg)
+
+![bppbpp](./BooBoo-Gardians-20240703GC.jpg)
 
 ## Gus Camp June 28 to July 1
 - [guscamp2024 - Photo Album](https://photos.app.goo.gl/quMEdVytmvoXmD4v9)
-  
+
+![test](https://photos.app.goo.gl/umRnUXecvdhAtejUA)
+
 ### June 29
 - Sugar Fire Smoke House BBQ
     - [Google Map Link](https://maps.app.goo.gl/JDEhrZ1SKkLqTyhK6)
