@@ -12,7 +12,9 @@
    ```
 -->
 
-## BooBoo Pinball Rampage July 3 
+## BooBoo Pinball Rampage July 3
+- More [BooBoo Pinball Rampage](./booboo)
+- More [Pinball 2024](https://photos.app.goo.gl/Nep3nuChCkUugCLa8)
 ![](./BooBoo-Gardians-20240703GC.jpg)
 
 ## Gus Camp June 28 to July 1
