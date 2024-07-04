@@ -18,12 +18,16 @@
 
 ![bppbpp](./BooBoo-Gardians-20240703GC.jpg)
 
-## Gus Camp June 28 to July 1
+## Gus Camp June 28 to 30
 - [guscamp2024 - Photo Album](https://photos.app.goo.gl/quMEdVytmvoXmD4v9)
 
 ![gusCamp2024-HimboDrinkService](./gusCamp2024-HimboDrinkService.jpg)
 
+### June 30
+- Breakfast and goodbye
+  
 ### June 29
+- Mighty Quinn Movie
 - Sugar Fire Smoke House BBQ
     - [Google Map Link](https://maps.app.goo.gl/JDEhrZ1SKkLqTyhK6)
     - [Sugar File Website](https://sugarfiresmokehouse.com/)
