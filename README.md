@@ -21,7 +21,7 @@
 ## Gus Camp June 28 to July 1
 - [guscamp2024 - Photo Album](https://photos.app.goo.gl/quMEdVytmvoXmD4v9)
 
-![test](https://photos.app.goo.gl/umRnUXecvdhAtejUA)
+![gusCamp2024-HimboDrinkService](./gusCamp2024-HimboDrinkService.jpg)
 
 ### June 29
 - Sugar Fire Smoke House BBQ
