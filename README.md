@@ -11,7 +11,9 @@
    464 687 723
    ```
 -->
-
+## gus-a-July 4
+- More [gus-a-July2024 Photos](https://photos.app.goo.gl/YGpJxWJangXc1TEG9)
+  
 ## BooBoo Pinball Rampage July 3
 - More [BooBoo Pinball Rampage](./booboo)
 - More [Pinball 2024](https://photos.app.goo.gl/Nep3nuChCkUugCLa8)
