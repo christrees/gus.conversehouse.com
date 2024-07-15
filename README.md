@@ -1,9 +1,9 @@
 ## [gus Video Chat Link](https://meet.google.com/zjf-xpvx-cqg)
 
-<!--
+
 [Google Map Link Gus House - click here](https://goo.gl/maps/85d9VKYTtEoHTdKJ6)
 
-
+<!--
 - [Click this link](https://meet.google.com/zjf-xpvx-cqg) to join the Video meeting 
 - or use any phone ------------- [dial +1 929-324-2085](tel:9293242085)
   - Enter below PIN:
