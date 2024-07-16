@@ -1,7 +1,19 @@
 ## [gus Video Chat Link](https://meet.google.com/zjf-xpvx-cqg)
 
 
-[Google Map Link Gus House - click here](https://goo.gl/maps/85d9VKYTtEoHTdKJ6)
+- [Google Map Link Gus House - click here](https://goo.gl/maps/85d9VKYTtEoHTdKJ6)
+- [Pantera Pizza](https://panterasofallon.com/)
+  - Pantera's Pizza 22 Ofallon Square, O'Fallon, MO 63366 636-272-7600
+  - Menu  -  https://panterasofallon.com/pizza/
+  - [Google Maps Link](https://maps.app.goo.gl/Avfob9wNmEZQxskG7)
+- Sugar Fire Smoke House BBQ
+    - [Google Map Link](https://maps.app.goo.gl/JDEhrZ1SKkLqTyhK6)
+    - [Sugar File Website](https://sugarfiresmokehouse.com/)    
+- [Two Plumbers - Google Address Link](https://maps.app.goo.gl/mdFCKvZWToaYAw8s7)
+  - Food Links
+  - [China King - Google Address Link](https://maps.app.goo.gl/LKLCgwQsX72iJxeGA) and the [China King Website - Menu](https://chinaking94.com/)
+- Good News Brewery 330 Sonderer St. O'Fallon MO
+  - Google Link to [Good News Brewery](https://maps.app.goo.gl/tYhJg8uMxeXuacpX9)
 
 <!--
 - [Click this link](https://meet.google.com/zjf-xpvx-cqg) to join the Video meeting 
