@@ -1,6 +1,6 @@
 ## [gus Video Chat Link](https://meet.google.com/zjf-xpvx-cqg)
 
-
+<!--
 - [Google Map Link Gus House - click here](https://goo.gl/maps/85d9VKYTtEoHTdKJ6)
 - [Pantera Pizza](https://panterasofallon.com/)
   - Pantera's Pizza 22 Ofallon Square, O'Fallon, MO 63366 636-272-7600
@@ -15,7 +15,6 @@
 - Good News Brewery 330 Sonderer St. O'Fallon MO
   - Google Link to [Good News Brewery](https://maps.app.goo.gl/tYhJg8uMxeXuacpX9)
 
-<!--
 - [Click this link](https://meet.google.com/zjf-xpvx-cqg) to join the Video meeting 
 - or use any phone ------------- [dial +1 929-324-2085](tel:9293242085)
   - Enter below PIN:
@@ -23,6 +22,23 @@
    464 687 723
    ```
 -->
+## Revenge of the gus 19-08-2024
+- I AM STEVE dethrones BOOBOO
+- new high score 709,289,300 pushes 567,215,240 off throne
+  
+![IAMSTEVE-score](./IAMSTEVE-Gardians-20240819.jpg)
+
+| Name | Score | rank |
+|-------|------|---|
+| I AM STEVE | 709,289,300 | Grand Champion |
+| BOO | 567,215,240 | HS 1 |
+| BOOBOO | 406,242,560 | HS 2 |
+| I AM STEVE | 387,864,370 | HS 3 |
+| BOOBOO | 352,421,730 | HS 4 |
+| CAT | 613,500 | LOW SCORE |
+
+- More [Pinball 2024](https://photos.app.goo.gl/Nep3nuChCkUugCLa8)
+
 ## gus-a-July 4
 - More [gus-a-July2024 Photos](https://photos.app.goo.gl/YGpJxWJangXc1TEG9)
   
