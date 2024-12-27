@@ -1,5 +1,10 @@
 [edit](https://github.com/christrees/gus.conversehouse.com/edit/main/wip/README.md)
 
+## gus devices to try
+- https://sonic-brush.net/
+- https://firstaiddevices.com/products/vitalvac%C2%AE-your-ultimate-safety-net-against-choking-emergencies
+- Training belt https://www.ebay.com/itm/223691658766
+- 
 ## gus wip (Work In Progress) Projects
 - [slDVR Plex - sl remote](https://24.216.208.251:32500/) - onlline
 - put vhs's online for sale
