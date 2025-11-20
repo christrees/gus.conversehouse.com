@@ -23,6 +23,7 @@
    ```
 -->
 - [Door Opener](https://www.amazon.com/Automatic-110-240V-Handicap-Disabilities-Controller/dp/B097PKBTKM)
+- [Deck Piers](https://youtu.be/HgMpaSZZK-g?t=38) - [https://www.diamondpiers.com/](https://www.diamondpiers.com/)
   
 ## Revenge of the gus 19-08-2024
 - I AM STEVE dethrones BOOBOO
