@@ -1,5 +1,10 @@
 [edit](https://github.com/christrees/gus.conversehouse.com/edit/main/wip/README.md)
 
+
+## Note
+- [Ground screw for deck - yt](https://www.youtube.com/watch?v=KqM6MuG7fBI)
+- tbd
+  
 ## gus devices to try
 - https://sonic-brush.net/
 - https://firstaiddevices.com/products/vitalvac%C2%AE-your-ultimate-safety-net-against-choking-emergencies
