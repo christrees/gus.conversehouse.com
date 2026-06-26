@@ -27,6 +27,7 @@ I didn't get many photo's this year
 - guscamp 2026 [PhotoLink](https://photos.app.goo.gl/iaUjAuSXv96ohjcf7)
 - guscamp 2025 [PhotoLink](https://photos.app.goo.gl/aQpZ1UtQDYmuQSAA8)
 - guscamp 2024 [PhotoLink](https://photos.app.goo.gl/quMEdVytmvoXmD4v9)
+- guscamp 2023 [PhotoLink](https://photos.app.goo.gl/iuHQKJi4hMHEHMGF6)
 
 - Himtinder 2026 Manhattin
   
