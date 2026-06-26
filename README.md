@@ -24,13 +24,18 @@
 -->
 ## GusCamp 2026 [PhotoLink](https://photos.app.goo.gl/iaUjAuSXv96ohjcf7)
 I didn't get many photo's this year
-
-  Himtinder 2026
-![](guscamp2025-davebartender.jpg)
+- guscamp 2026 [PhotoLink](https://photos.app.goo.gl/iaUjAuSXv96ohjcf7)
 - guscamp 2025 [PhotoLink](https://photos.app.goo.gl/aQpZ1UtQDYmuQSAA8)
-  Himtinder 2024
-![](guscamp2024-davebartender.jpg)
 - guscamp 2024 [PhotoLink](https://photos.app.goo.gl/quMEdVytmvoXmD4v9)
+
+- Himtinder 2026 Manhattin
+  
+![](guscamp2026-davebartender.jpg)
+
+- Himtinder 2024 Horses Neck
+
+![](guscamp2024-davebartender.jpg)
+
 
 ## GusBro 2026-03-07
 - [GusBro Album link](https://photos.app.goo.gl/EWRjvCn6PE8m5CGF9)
