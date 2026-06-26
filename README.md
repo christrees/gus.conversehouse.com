@@ -24,11 +24,12 @@
 -->
 ## GusCamp 2026 [PhotoLink](https://photos.app.goo.gl/iaUjAuSXv96ohjcf7)
 I didn't get many photo's this year
-Himtinder 2026
-![]()
+
+  Himtinder 2026
+![](guscamp2025-davebartender.jpg)
 - guscamp 2025 [PhotoLink](https://photos.app.goo.gl/aQpZ1UtQDYmuQSAA8)
-Himtinder 2024
-![]()
+  Himtinder 2024
+![](guscamp2024-davebartender.jpg)
 - guscamp 2024 [PhotoLink](https://photos.app.goo.gl/quMEdVytmvoXmD4v9)
 
 ## GusBro 2026-03-07
