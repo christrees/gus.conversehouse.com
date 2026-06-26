@@ -22,6 +22,15 @@
    464 687 723
    ```
 -->
+## GusCamp 2026 [PhotoLink](https://photos.app.goo.gl/iaUjAuSXv96ohjcf7)
+I didn't get many photo's this year
+Himtinder 2026
+![]()
+- guscamp 2025 [PhotoLink]()
+Himtinder 2024
+![]()
+- guscamp 2024 [PhotoLink]()
+
 ## GusBro 2026-03-07
 - [GusBro Album link](https://photos.app.goo.gl/EWRjvCn6PE8m5CGF9)
 
