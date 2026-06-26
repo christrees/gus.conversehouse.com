@@ -26,10 +26,10 @@
 I didn't get many photo's this year
 Himtinder 2026
 ![]()
-- guscamp 2025 [PhotoLink]()
+- guscamp 2025 [PhotoLink](https://photos.app.goo.gl/aQpZ1UtQDYmuQSAA8)
 Himtinder 2024
 ![]()
-- guscamp 2024 [PhotoLink]()
+- guscamp 2024 [PhotoLink](https://photos.app.goo.gl/quMEdVytmvoXmD4v9)
 
 ## GusBro 2026-03-07
 - [GusBro Album link](https://photos.app.goo.gl/EWRjvCn6PE8m5CGF9)
