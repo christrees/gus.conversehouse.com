@@ -25,6 +25,7 @@
 ## garage door
 - Wayne Dalton TorqueMaster Counterbalance System [See document](./wip/garagedoor.md)
 - Replace with 'traditional' (you can buy from menards) or pull down, tear apart, order the broken crap
+- [youtube replacement video](https://www.youtube.com/watch?v=oedkAkNUJTM)
 - tbd
 
 ## GusCamp 2026 [PhotoLink](https://photos.app.goo.gl/iaUjAuSXv96ohjcf7)
