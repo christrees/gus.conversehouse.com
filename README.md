@@ -26,6 +26,9 @@
 - Wayne Dalton TorqueMaster Counterbalance System [See document](./wip/garagedoor.md)
 - Replace with 'traditional' (you can buy from menards) or pull down, tear apart, order the broken crap
 - [youtube replacement video](https://www.youtube.com/watch?v=oedkAkNUJTM)
+- winding shaft [product](https://shopactiondirect.com/product/wayne-dalton-313508-torquemaster-spring-winding-end-left/?sku=313508&gad_source=2&gad_campaignid=23362056162&gclid=Cj0KCQjwz4LWBhCMARIsAFEG5Mq8oVXMRrLEVtA47on4UvNMovQ5tnHET9g6f6jQrxYke-2TC6X0FzkaArIdEALw_wcB#tab-related)
+- video with same type [video](https://www.youtube.com/watch?v=qfuThoGGvV8)
+- ai answer [google-ai](https://share.google/aimode/AxsLyOof5ylTKjY15)
 - tbd
 
 ## GusCamp 2026 [PhotoLink](https://photos.app.goo.gl/iaUjAuSXv96ohjcf7)
