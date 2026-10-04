@@ -31,6 +31,7 @@
 - ai answer [google-ai](https://share.google/aimode/AxsLyOof5ylTKjY15)
 - tbd
 - RIGHT Spring shaft [Part order](https://shopactiondirect.com/product/wayne-dalton-313507-right-hand-winding-end-torquemaster-1/?sku=313507&gad_source=1&gad_campaignid=23539151447&gbraid=0AAAAAD4myL2a10xN0VY4L8v3fwdhuZAvE&gclid=Cj0KCQjwz4LWBhCMARIsAFEG5MquWeyMkdBybIS4IL8vX6rL8a0p5w2Y-14D_KOwPmBsQ9870-Cch4caAunoEALw_wcB)
+- Drum Assembly [Part order](https://shopactiondirect.com/product/wayne-dalton-320217-torquemaster-cable-drum-assembly/)
 
 ## GusCamp 2026 [PhotoLink](https://photos.app.goo.gl/iaUjAuSXv96ohjcf7)
 I didn't get many photo's this year
