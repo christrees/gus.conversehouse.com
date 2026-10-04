@@ -34,6 +34,7 @@
 - Drum Assembly [Part order](https://shopactiondirect.com/product/wayne-dalton-320217-torquemaster-cable-drum-assembly/)
 - tbd
 - Menards traditional [Part order](https://www.menards.com/main/hardware/garage-door-parts-accessories/c-7577.htm?Spec_ProductType_facet=Garage+Door+Springs+%26+Spring+Parts&Spec_ProductType_facet=Garage+Door+Track+%26+Track+Parts&Spec_Type_facet=Extension+Spring&Spec_Type_facet=Pusher+Springs&Spec_Type_facet=Torsion+Spring&Spec_Type_facet=Track)
+- Traditional Install [video](https://www.youtube.com/watch?v=5k9qrgZ9rPs)
 
 ## GusCamp 2026 [PhotoLink](https://photos.app.goo.gl/iaUjAuSXv96ohjcf7)
 I didn't get many photo's this year
