@@ -22,6 +22,13 @@
    464 687 723
    ```
 -->
+## The BooblieBooBoo Threat 2026-10-21
+- Is the "Booblie Boo Boo" about to de-throne "I AM STEVE"
+- Tune in next time on the same "Bat channel" at the same "Bat Time"
+
+![booboo1](./The-BooBoo-Threat.jpeg)
+![booboo1](./The-BooBoo-Threat_2.jpeg)
+
 ## garage door
 - Wayne Dalton TorqueMaster Counterbalance System [See document](./wip/garagedoor.md)
 - Replace with 'traditional' (you can buy from menards) or pull down, tear apart, order the broken crap
